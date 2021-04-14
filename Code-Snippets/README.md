@@ -33,13 +33,6 @@ class PatchStation
     __result = true;
     return __result;
   }
-
-  static bool Postfix(bool __result, CraftingStation __instance)
-  {
-    __instance.m_craftRequireRoof = false;
-    __result = true;
-    return __result;
-  }
 }
 
 [HarmonyPatch(typeof(CraftingStation), "Start")]
