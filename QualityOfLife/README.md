@@ -3,10 +3,9 @@
 > Current version (*pre-release: 0.0.1*)
 
 
-## QOLMod requires BepInEx.Configuration to work properly.
+### QOLMod requires BepInEx.Configuration to work properly.
 > You can download it at the NexusMods valheim site.
-
-## Current Features
+  
 ### All features displayed below can be toggled on or off at anytime using **F1**
   
 - Build Damage
